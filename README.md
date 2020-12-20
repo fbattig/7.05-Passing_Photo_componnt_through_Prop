@@ -1,2 +1,2 @@
-# 7.05-Passing_Photo_componnt_through_Prop
+# 7.01-Sending_and_receiving_objects_As_Props_from_Parent
 Created with CodeSandbox
